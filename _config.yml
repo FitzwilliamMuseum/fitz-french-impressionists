@@ -18,15 +18,23 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: "Site title"
-email: "crsid@cam.ac.uk"
+title: "French impressionists"
+email: "dejp3@cam.ac.uk"
 description: >- # this means to ignore newlines until "baseurl:"
-  "Website description"
-baseurl: "/reponame" # the subpath of your site, e.g. /blog
+  "The collection of works by French Impressionist painters in the Fitzwilliam Museum
+  – some hundred and more paintings, drawings, prints and sculptures – is one of
+  the finest in the UK. These web pages present some of the highlights of the
+  collection, as well as three magnificent works by Cézanne and Seurat's large-scale
+  study for 'A Sunday Afternoon on the Grande Jatte', on long-term loan to the Museum
+  from the Provost and Fellows of King's College, Cambridge, to whom they were
+  bequeathed by the economist, John Maynard Keynes."
+baseurl: "/french-impressionists" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: FitzMuseum_UK
 github_username:  fitzwilliammuseum
-background: "" 
+background: ""
+google_analytics: 'G-2R0YLY9DRS'
+
 # Build settings
 plugins:
   - jekyll-feed
@@ -43,18 +51,8 @@ plugins:
 collections:
    exhibition:
       output: true
-   about:
+   artists:
       output: true
-   resources:
-      output: true
-   team:
-      output: true
-   blog:
-      output: true
-feed:
-  collections:
-    - blog
-
 timezone: Europe/London
 permalink: pretty
 encoding: "utf-8"
