@@ -55,7 +55,6 @@ collections:
       output: true
    works:
       output: true
-      permalink: /artists/:artist
 timezone: Europe/London
 permalink: pretty
 encoding: "utf-8"
