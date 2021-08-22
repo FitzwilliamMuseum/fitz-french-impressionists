@@ -6,9 +6,10 @@ artist_name: Hilaire-Germain-Edgar Degas
 artist: degas
 permalink: /artists/degas/portrait-of-the-dancer-jules-perrot
 ---
-
+{::options parse_block_html="true" /}
+<div class="text-center">
 ![Portrait of the dancer Jules Perrot](https://data.fitzmuseum.cam.ac.uk/imagestore/pdp/pdp76/PD_25_1978_201611_adn21_dc2.jpg){: .img-fluid}
-
+</div>
 
 Hilaire-Germain-Edgar Degas 1834 - 1917
 

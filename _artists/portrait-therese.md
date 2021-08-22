@@ -6,11 +6,12 @@ artist_name: Hilaire-Germain-Edgar Degas
 artist: degas
 permalink: /artists/degas/portrait-of-therese-degas
 ---
-
+{::options parse_block_html="true" /}
+<div class="text-center">
 ![Portrait of Thérèse Degas](https://data.fitzmuseum.cam.ac.uk/imagestore/pdp/pdp13/PD_24_1978r.jpg){: .img-fluid }
 
 [View this in high resolution](https://data.fitzmuseum.cam.ac.uk/id/image/iiif/media-9830#?c=&m=&cv=){: .btn .btn-dark}
-
+</div>
 
 Hilaire-Germain-Edgar Degas 1834 -1917
 

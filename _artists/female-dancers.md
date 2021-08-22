@@ -6,10 +6,12 @@ artist_name: Hilaire-Germain-Edgar Degas
 artist: degas
 permalink: /artists/degas/female-dancers
 ---
-
+{::options parse_block_html="true" /}
+<div class="text-center">
 ![Female dancers in violet skirts, their arms raised, c.1900](https://data.fitzmuseum.cam.ac.uk/imagestore/pdp/pdp2/PD_2_1979.jpg){: .img-fluid }
 
 [View this in high resolution](https://data.fitzmuseum.cam.ac.uk/id/image/iiif/media-9844#?c=&m=&cv=){: .btn .btn-dark}
+</div>
 
 Female dancers in violet skirts, their arms raised, c.1900
 

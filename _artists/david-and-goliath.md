@@ -6,10 +6,12 @@ artist_name: Hilaire-Germain-Edgar Degas
 artist: degas
 permalink: /artists/degas/david-and-goliath
 ---
-
+{::options parse_block_html="true" /}
+<div class="text-center">
 ![David and Goliath](https://data.fitzmuseum.cam.ac.uk/imagestore/pdp/pdp76/PD_7_1966_1_201110_adn21_dc2.jpg){: .img-fluid }
 
 [View this in high resolution](https://data.fitzmuseum.cam.ac.uk/id/image/iiif/media-202760#?c=&m=&cv=){: .btn .btn-dark}
+</div>
 
 Hilaire-Germain-Edgar Degas 1834 - 1917
 

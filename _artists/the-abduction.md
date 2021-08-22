@@ -6,8 +6,10 @@ artist_name: Paul Cézanne
 artist: cézanne
 permalink: /artists/cezanne/the-abduction-1867
 ---
-
+{::options parse_block_html="true" /}
+<div class="text-center">
 ![The Abduction, 1867](https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/L%27Enl%C3%A8vement%2C_par_Paul_C%C3%A9zanne%2C_FWN_590.jpg/1570px-L%27Enl%C3%A8vement%2C_par_Paul_C%C3%A9zanne%2C_FWN_590.jpg){: .img-fluid }
+</div>
 
 Paul Cézanne 1839 -1906
 

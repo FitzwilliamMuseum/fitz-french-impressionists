@@ -6,11 +6,12 @@ artist_name: Hilaire-Germain-Edgar Degas
 artist: degas
 permalink: /artists/degas/figure-studies
 ---
-
+{::options parse_block_html="true" /}
+<div class="text-center">
 ![Female dancers in violet skirts, their arms raised, c.1900](https://data.fitzmuseum.cam.ac.uk/imagestore/pdp/pdp76/large_PD_29_1978_201611_adn21_dc2.jpg){: .img-fluid }
 
 [View this in high resolution](https://data.fitzmuseum.cam.ac.uk/id/image/iiif/media-202727#?c=&m=&cv=){: .btn .btn-dark}
-
+</div>
 
 Hilaire-Germain-Edgar Degas 1834 - 1917
 

@@ -1,6 +1,6 @@
 ---
 layout: default
-permalink: /artists/
+permalink: /works/
 title: Explore Impressionism
 ---
 <div class="container mb-3">

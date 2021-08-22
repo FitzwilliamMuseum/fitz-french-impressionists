@@ -4,9 +4,12 @@ layout: default
 preview: https://data.fitzmuseum.cam.ac.uk/imagestore/pdp/pdp76/preview_PD_23_1978_201611_adn21_dc2.jpg
 artist_name: Hilaire-Germain-Edgar Degas
 artist: degas
-permalink: /artists/degas/view-of-the-fortress
+permalink: /artists/degas/young-female-dancer
 ---
-![{{page.title}}](https://data.fitzmuseum.cam.ac.uk/imagestore/pdp/pdp76/large_PD_23_1978_201611_adn21_dc2.jpg)
+{::options parse_block_html="true" /}
+<div class="text-center">
+![{{page.title}}](https://data.fitzmuseum.cam.ac.uk/imagestore/pdp/pdp76/large_PD_23_1978_201611_adn21_dc2.jpg){: .img-fluid }
+</div>
 
 Hilaire-Germain-Edgar Degas 1834 - 1917
 

@@ -6,10 +6,12 @@ artist_name: Paul Gauguin
 artist: gauguin
 permalink: /artists/gauguin/landscape-1873
 ---
-
+{::options parse_block_html="true" /}
+<div class="text-center">
 ![Landscape, 1873](https://data.fitzmuseum.cam.ac.uk/imagestore/pdp/pdp2/PD_20_1952.jpg){: .img-fluid }
 
 [View this in high resolution](https://data.fitzmuseum.cam.ac.uk/id/image/iiif/media-7944#?c=&m=&cv=){: .btn .btn-dark}
+</div>
 
 Paul Gauguin 1848-1903
 

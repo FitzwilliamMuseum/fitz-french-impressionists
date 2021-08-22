@@ -6,9 +6,10 @@ artist_name: Paul Gauguin
 artist: gauguin
 permalink: /artists/gauguin/fan-design-garden-under-snow-1885
 ---
-
+{::options parse_block_html="true" /}
+<div class="text-center">
 ![Fan design: garden under snow, 1885](https://data.fitzmuseum.cam.ac.uk/imagestore/pdp/pdp13/PD_57_2001.jpg){: .img-fluid }
-
+</div>
 
 Paul Gauguin 1848-1903
 

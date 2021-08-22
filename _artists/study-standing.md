@@ -6,7 +6,10 @@ artist_name: Hilaire-Germain-Edgar Degas
 artist: degas
 permalink: /artists/degas/study-standing-nude
 ---
-![Study of a standing nude woman, her left arm raised, c.1898](https://data.fitzmuseum.cam.ac.uk/imagestore/pdp/pdp76/PD_35_1978_201611_adn21_dc2.jpg)
+{::options parse_block_html="true" /}
+<div class="text-center">
+![Study of a standing nude woman, her left arm raised, c.1898](https://data.fitzmuseum.cam.ac.uk/imagestore/pdp/pdp76/PD_35_1978_201611_adn21_dc2.jpg){: .img-fluid }
+</div>
 
 Hilaire-Germain-Edgar Degas 1834 - 1917
 

@@ -6,8 +6,10 @@ artist_name: Hilaire-Germain-Edgar Degas
 artist: degas
 permalink: /artists/degas/elisabeth-de-Valois
 ---
-
+{::options parse_block_html="true" /}
+<div class="text-center">
 ![Portrait of Elisabeth de Valois, after Antonis Mor](https://data.fitzmuseum.cam.ac.uk/imagestore/pdp/pdp76/pd_22_1978_1_201403_mfj22_dc2.jpg){: .img-fluid }
+</div>
 
 Hilaire-Germain-Edgar Degas 1834 - 1917
 

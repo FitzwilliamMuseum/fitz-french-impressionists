@@ -7,10 +7,12 @@ artist: cézanne
 permalink: /artists/cezanne/the-forest-Clearing
 category: landscape
 ---
-
+{::options parse_block_html="true" /}
+<div class="text-center">
 ![The Forest Clearing](https://data.fitzmuseum.cam.ac.uk/imagestore/pdp/pdp82/2381_1_201110_adn21_dc2.jpg){: .img-fluid }
 
 [View this in high resolution](https://data.fitzmuseum.cam.ac.uk/id/image/iiif/media-217678#?c=&m=&cv=){: .btn .btn-dark}
+</div>
 
 Paul Cézanne 1839 - 1906
 

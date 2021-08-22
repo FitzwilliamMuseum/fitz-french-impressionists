@@ -6,9 +6,12 @@ layout: default
 preview: https://data.fitzmuseum.cam.ac.uk/imagestore/pdp/pdp76/preview_2380_201703_adn21_dc2.jpg
 permalink: /artists/boudin/sunset-on-the-beach
 ---
+{::options parse_block_html="true" /}
+<div class="text-center">
 ![Sunset on the Beach](https://data.fitzmuseum.cam.ac.uk/imagestore/pdp/pdp76/large_2380_201703_adn21_dc2.jpg){: .img-fluid }
 
 [View this in high resolution](https://data.fitzmuseum.cam.ac.uk/id/image/iiif/media-202613#?c=&m=&cv=){: .btn .btn-dark}
+</div>
 
 Eugène Boudin 1824 -1898
 

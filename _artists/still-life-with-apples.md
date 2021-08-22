@@ -7,8 +7,10 @@ artist: cézanne
 permalink: /artists/cezanne/still-life-with-apples
 category: still-life
 ---
-
+{::options parse_block_html="true" /}
+<div class="text-center">
 ![The Forest Clearing](https://applesandpeople.org.uk/wp-content/uploads/2020/12/cezanne-apples-still-life.jpg){: .img-fluid }
+</div>
 
 Paul Cézanne 1839 -1906
 

@@ -6,8 +6,10 @@ artist_name: Paul Cézanne
 artist: cézanne
 permalink: /artists/cezanne/a-nude-youth
 ---
-
+{::options parse_block_html="true" /}
+<div class="text-center">
 ![A nude youth by cezanne](https://data.fitzmuseum.cam.ac.uk/imagestore/pdp/pdp78/PD_55_1961_1_201705_adn21_dc2.jpg){: .img-fluid }
+</div>
 
 [View this in high resolution](https://data.fitzmuseum.cam.ac.uk/id/image/iiif/media-209078#?c=&m=&cv=){: .btn .btn-dark}
 

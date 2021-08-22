@@ -6,8 +6,10 @@ artist_name: Hilaire-Germain-Edgar Degas
 artist: degas
 permalink: /artists/degas/arabesque-over-right-leg
 ---
-
+{::options parse_block_html="true" /}
+<div class="text-center">
 ![Arabesque over Right Leg, Left Arm in Front](https://data.fitzmuseum.cam.ac.uk/imagestore/aa/aa31/M_6_1990_1_201502_jas244_dc2.jpg){: .img-fluid }
+</div>
 
 [View this in high resolution](https://data.fitzmuseum.cam.ac.uk/id/image/iiif/media-192456#?c=&m=&cv=){: .btn .btn-dark}
 

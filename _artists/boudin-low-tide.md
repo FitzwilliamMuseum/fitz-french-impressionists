@@ -6,9 +6,12 @@ layout: default
 preview: https://data.fitzmuseum.cam.ac.uk/imagestore/pdp/pdp82/preview_PD_12_1968_201406_adn21_dc2.jpg
 permalink: /artists/boudin/low-tide-portrieux
 ---
+{::options parse_block_html="true" /}
+<div class="text-center">
 ![Low tide, Portrieux](https://data.fitzmuseum.cam.ac.uk/imagestore/pdp/pdp82/large_PD_12_1968_201406_adn21_dc2.jpg){: .img-fluid }
 
 [View this in high resolution](https://data.fitzmuseum.cam.ac.uk/id/image/iiif/media-218825#?c=&m=&cv=){: .btn .btn-dark}
+</div>
 
 **Low tide, Portrieux**
 

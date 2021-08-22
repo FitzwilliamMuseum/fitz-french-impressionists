@@ -6,9 +6,12 @@ artist_name: Hilaire-Germain-Edgar Degas
 artist: degas
 permalink: /artists/degas/rocks-a-Bagnoles
 ---
-![Rocks at Bagnoles-de-l'Orne, c.1867](https://data.fitzmuseum.cam.ac.uk/imagestore/pdp/pdp76/PD_10_1951_201608_adn21_dc2.jpg)
+{::options parse_block_html="true" /}
+<div class="text-center">
+![Rocks at Bagnoles-de-l'Orne, c.1867](https://data.fitzmuseum.cam.ac.uk/imagestore/pdp/pdp76/PD_10_1951_201608_adn21_dc2.jpg){: .img-fluid }
 
 [View this in high resolution](https://data.fitzmuseum.cam.ac.uk/id/image/iiif/media-202674#?c=&m=&cv=_){: .btn .btn-dark }
+</div>
 
 Hilaire-Germain-Edgar Degas 1834 - 1917
 
