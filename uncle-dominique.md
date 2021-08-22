@@ -7,7 +7,6 @@ artist: cézanne
 permalink: /artists/cezanne/uncle-dominique
 ---
 
-
 Paul Cézanne 1839 -1906
 
 Oil on canvas

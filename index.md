@@ -3,6 +3,11 @@ title: "Who were the Impressionists?"
 layout: default
 permalink: /
 ---
+{::options parse_block_html="true" /}
+<div class="text-center">
+![{{page.title}}](https://data.fitzmuseum.cam.ac.uk/imagestore/pdp/pdp82/PD_9_1959_1_201010_adn21_dc2.jpg){: .img-fluid }
+</div>
+
 In nineteenth century France, the government-sponsored annual exhibition known as the Salon was key in helping an artist promote his reputation and find clientele for his works.  
 
 Featuring thousands of paintings (and rejecting many more) the Salon became a vast emporium, promoting the academic artists issuing from the Ecole des Beaux-Arts (School of Fine Arts) and the studios of leading establishment painters. Gradually, opposition to the Salon among independent-minded painters increased throughout the century, who sought alternative ways of exhibiting their works. In 1863, those painters whose works were rejected by the jury of the official Salon protested vociferously enough to be given their own exhibition, known as Le Salon des refusés.
