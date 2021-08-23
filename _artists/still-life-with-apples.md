@@ -4,6 +4,7 @@ layout: default
 preview: https://applesandpeople.org.uk/wp-content/uploads/2020/12/cezanne-apples-still-life.jpg
 artist_name: Paul Cézanne
 artist: cézanne
+life_span: '1839-1906'
 permalink: /artists/cezanne/still-life-with-apples
 category: still-life
 ---

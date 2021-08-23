@@ -4,6 +4,7 @@ layout: default
 preview: https://data.fitzmuseum.cam.ac.uk/imagestore/aa/aa31/preview_M_6_1990_1_201502_jas244_dc2.jpg
 artist_name: Hilaire-Germain-Edgar Degas
 artist: degas
+life_span: '1834-1917'
 permalink: /artists/degas/arabesque-over-right-leg
 ---
 {::options parse_block_html="true" /}

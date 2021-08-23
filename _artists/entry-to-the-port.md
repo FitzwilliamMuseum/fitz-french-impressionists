@@ -4,6 +4,7 @@ layout: default
 preview: https://data.fitzmuseum.cam.ac.uk/imagestore/pdp/pdp82/preview_PD_9_1959_1_201010_adn21_dc2.jpg
 artist_name: Paul Signac
 artist: signac
+life_span: '1863–1935'
 permalink: /artists/signac/entry-to-the-port
 ---
 {::options parse_block_html="true" /}

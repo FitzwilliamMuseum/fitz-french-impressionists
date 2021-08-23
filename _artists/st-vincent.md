@@ -4,6 +4,7 @@ layout: default
 preview: https://data.fitzmuseum.cam.ac.uk/imagestore/pdp/pdp81/preview_PD_1_1948_1_201110_adn21_dc2.jpg
 artist_name: Georges-Pierre Seurat
 artist: seurat
+life_span: '1859-1891'
 permalink: /artists/seurat/rue-st-vincent
 ---
 {::options parse_block_html="true" /}

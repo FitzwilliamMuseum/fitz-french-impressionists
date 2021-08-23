@@ -3,6 +3,7 @@ title: A nude youth
 layout: default
 preview: https://data.fitzmuseum.cam.ac.uk/imagestore/pdp/pdp78/preview_PD_55_1961_1_201705_adn21_dc2.jpg
 artist_name: Paul Cézanne
+life_span:  '1839-1906'
 artist: cézanne
 permalink: /artists/cezanne/a-nude-youth
 ---

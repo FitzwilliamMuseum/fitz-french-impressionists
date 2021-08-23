@@ -4,6 +4,7 @@ artist_name: Eugène Boudin
 artist: boudin
 layout: default
 preview: https://data.fitzmuseum.cam.ac.uk/imagestore/pdp/pdp76/preview_2380_201703_adn21_dc2.jpg
+life_span: '1824-1898'
 permalink: /artists/boudin/sunset-on-the-beach
 ---
 {::options parse_block_html="true" /}

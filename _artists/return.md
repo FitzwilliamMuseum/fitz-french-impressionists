@@ -4,6 +4,7 @@ layout: default
 preview: https://data.fitzmuseum.cam.ac.uk/imagestore/pdp/pdp82/preview_PD_29_1964_201110_adn21_dc2.jpg
 artist_name: Pierre-Auguste Renoir
 artist: renoir
+life_span: '1841-1919'
 permalink: /artists/renoir/the-return-from-the-fields
 ---
 {::options parse_block_html="true" /}

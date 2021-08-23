@@ -4,6 +4,7 @@ layout: default
 preview: https://data.fitzmuseum.cam.ac.uk/imagestore/pdp/pdp2/preview_PD_20_1952.jpg
 artist_name: Paul Gauguin
 artist: gauguin
+life_span: '1848-1903'
 permalink: /artists/gauguin/landscape-1873
 ---
 {::options parse_block_html="true" /}

@@ -4,6 +4,7 @@ layout: default
 preview: https://data.fitzmuseum.cam.ac.uk/imagestore/pdp/pdp2/preview_PD_2_1953.jpg
 artist_name: Claude Monet
 artist: monet
+life_span: '1840-1926'
 permalink: /artists/monet/springtime-1886
 ---
 {::options parse_block_html="true" /}

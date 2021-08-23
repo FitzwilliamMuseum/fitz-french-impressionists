@@ -1,13 +1,19 @@
 ---
 title: "Uncle Dominique"
 layout: default
-preview:
+preview: https://fitz-cms-images.s3.eu-west-2.amazonaws.com/cezanne-oncle-dominique_l_1.jpeg
 artist_name: Paul Cézanne
 artist: cézanne
+life_span: '1839-1906'
 permalink: /artists/cezanne/uncle-dominique
 ---
 
-Paul Cézanne 1839 -1906
+{::options parse_block_html="true" /}
+<div class="text-center">
+![Uncle Dominique](https://fitz-cms-images.s3.eu-west-2.amazonaws.com/cezanne-oncle-dominique_l_1.jpeg){: .img-fluid }
+</div>
+
+Paul Cézanne 1839 - 1906
 
 Oil on canvas
 39 x 30.5 cm

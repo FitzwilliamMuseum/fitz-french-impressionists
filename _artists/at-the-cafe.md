@@ -4,6 +4,7 @@ layout: default
 preview: https://data.fitzmuseum.cam.ac.uk/imagestore/pdp/pdp78/preview_2387_1_201110_adn21_dc2.jpg
 artist_name: Hilaire-Germain-Edgar Degas
 artist: degas
+life_span: '1834-1917'
 permalink: /artists/degas/at-the-cafe
 ---
 {::options parse_block_html="true" /}
@@ -12,8 +13,6 @@ permalink: /artists/degas/at-the-cafe
 
 [View this in high resolution](https://data.fitzmuseum.cam.ac.uk/id/image/iiif/media-208594#?c=&m=&cv=){: .btn .btn-dark}
 </div>
-
-
 
 Hilaire-Germain-Edgar Degas 1834 - 1917
 

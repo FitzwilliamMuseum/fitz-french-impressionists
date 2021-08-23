@@ -15,7 +15,7 @@ permalink: /artists/degas
     <div class="col-md-4 mb-3">
       <div class="card h-100" >
         <a href="{{site.baseurl}}{{ art.permalink }}" class="stretched-link">
-          <img class="card-img-top" src="{{art.preview}}" alt="Card image cap" width="300" height="300"/>
+          <img class="card-img-top square" src="{{art.preview}}" alt="Card image cap" width="300" height="300"/>
         </a>
         <div class="card-body">
           <h3 class="lead mt-2">

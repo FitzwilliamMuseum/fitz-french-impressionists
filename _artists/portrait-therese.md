@@ -4,6 +4,7 @@ layout: default
 preview: https://data.fitzmuseum.cam.ac.uk/imagestore/pdp/pdp13/preview_PD_24_1978r.jpg
 artist_name: Hilaire-Germain-Edgar Degas
 artist: degas
+life_span: '1834-1917'
 permalink: /artists/degas/portrait-of-therese-degas
 ---
 {::options parse_block_html="true" /}

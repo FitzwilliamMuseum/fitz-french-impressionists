@@ -4,6 +4,7 @@ layout: default
 preview: https://data.fitzmuseum.cam.ac.uk/imagestore/pdp/pdp2/preview_PD_2_1979.jpg
 artist_name: Hilaire-Germain-Edgar Degas
 artist: degas
+life_span: '1834-1917'
 permalink: /artists/degas/female-dancers
 ---
 {::options parse_block_html="true" /}

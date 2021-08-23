@@ -4,6 +4,7 @@ layout: default
 preview: https://data.fitzmuseum.cam.ac.uk/imagestore/pdp/pdp82/preview_2414_1_201110_adn21_dc2.jpg
 artist_name: Alfred Sisley
 artist: sisley
+life_span: '1839-1899'
 permalink: /artists/sisley/a-street-port-marly
 ---
 {::options parse_block_html="true" /}

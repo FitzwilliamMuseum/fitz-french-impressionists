@@ -4,6 +4,7 @@ layout: default
 preview: https://data.fitzmuseum.cam.ac.uk/imagestore/pdp/pdp76/preview_PD_29_1978_201611_adn21_dc2.jpg
 artist_name: Hilaire-Germain-Edgar Degas
 artist: degas
+life_span: '1834-1917'
 permalink: /artists/degas/figure-studies
 ---
 {::options parse_block_html="true" /}

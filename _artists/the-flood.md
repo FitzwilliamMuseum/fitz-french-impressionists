@@ -4,6 +4,7 @@ layout: default
 preview: https://data.fitzmuseum.cam.ac.uk/imagestore/pdp/pdp82/preview_PD_69_1958_201110_adn21_dc2.jpg
 artist_name: Alfred Sisley
 artist: sisley
+life_span: '1839-1899'
 permalink: /artists/sisley/the-flood
 ---
 {::options parse_block_html="true" /}

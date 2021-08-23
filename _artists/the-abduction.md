@@ -4,6 +4,7 @@ layout: default
 preview: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/L%27Enl%C3%A8vement%2C_par_Paul_C%C3%A9zanne%2C_FWN_590.jpg/1570px-L%27Enl%C3%A8vement%2C_par_Paul_C%C3%A9zanne%2C_FWN_590.jpg
 artist_name: Paul Cézanne
 artist: cézanne
+life_span: '1839-1906'
 permalink: /artists/cezanne/the-abduction-1867
 ---
 {::options parse_block_html="true" /}

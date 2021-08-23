@@ -4,6 +4,7 @@ layout: default
 preview: https://data.fitzmuseum.cam.ac.uk/imagestore/pdp/pdp13/preview_PD_57_2001.jpg
 artist_name: Paul Gauguin
 artist: gauguin
+life_span: '1848-1903'
 permalink: /artists/gauguin/fan-design-garden-under-snow-1885
 ---
 {::options parse_block_html="true" /}

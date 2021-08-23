@@ -4,6 +4,7 @@ layout: default
 preview: https://data.fitzmuseum.cam.ac.uk/imagestore/pdp/pdp82/preview_PD_53_1947_201110_adn21_dc2.jpg
 artist_name: Camille Pissarro
 artist: pissarro
+life_span: '1830-1903'
 permalink: /artists/pissarro/in-the-garden-at-pontoise
 ---
 {::options parse_block_html="true" /}

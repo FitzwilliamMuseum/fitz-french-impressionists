@@ -4,6 +4,7 @@ layout: default
 preview: https://data.fitzmuseum.cam.ac.uk/imagestore/pdp/pdp2/preview_PD_18_1964.jpg
 artist_name: Pierre-Auguste Renoir
 artist: renoir
+life_span: '1841–1919'
 permalink: /artists/renoir/apples-and-walnuts
 ---
 {::options parse_block_html="true" /}

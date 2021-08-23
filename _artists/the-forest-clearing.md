@@ -4,6 +4,7 @@ layout: default
 preview: https://data.fitzmuseum.cam.ac.uk/imagestore/pdp/pdp82/preview_2381_1_201110_adn21_dc2.jpg
 artist_name: Paul Cézanne
 artist: cézanne
+life_span: '1839-1906'
 permalink: /artists/cezanne/the-forest-Clearing
 category: landscape
 ---

@@ -2,6 +2,7 @@
 title: Low tide, Portrieux
 artist_name: Eugène Boudin
 artist: boudin
+life_span: '1824–1898'
 layout: default
 preview: https://data.fitzmuseum.cam.ac.uk/imagestore/pdp/pdp82/preview_PD_12_1968_201406_adn21_dc2.jpg
 permalink: /artists/boudin/low-tide-portrieux
@@ -13,10 +14,10 @@ permalink: /artists/boudin/low-tide-portrieux
 [View this in high resolution](https://data.fitzmuseum.cam.ac.uk/id/image/iiif/media-218825#?c=&m=&cv=){: .btn .btn-dark}
 </div>
 
-**Low tide, Portrieux**
-
 Eugène Boudin 1824 – 1898  
+
 Collections record: [PD.12-1968](https://data.fitzmuseum.cam.ac.uk/id/object/2356)  
+
 Oil on canvas 32 x 46 cm
 
 Bequeathed by Sidney Ernest Prestige, 1965, with a life-interest to his widow,

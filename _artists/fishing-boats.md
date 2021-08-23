@@ -4,6 +4,7 @@ layout: default
 preview: https://data.fitzmuseum.cam.ac.uk/imagestore/pdp/pdp82/preview_2413_201504_adn21_dc2.jpg
 artist_name: Paul Signac
 artist: signac
+life_span: '1863-1935'
 permalink: /artists/signac/fishing-boats
 ---
 {::options parse_block_html="true" /}

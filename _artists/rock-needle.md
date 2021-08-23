@@ -4,6 +4,7 @@ layout: default
 preview: https://data.fitzmuseum.cam.ac.uk/imagestore/pdp/pdp82/preview_PD_26_1998_201104_adn21_dc2.jpg
 artist_name: Claude Monet
 artist: monet
+life_span: '1840-1926'
 permalink: /artists/monet/the-rock-needle
 ---
 {::options parse_block_html="true" /}

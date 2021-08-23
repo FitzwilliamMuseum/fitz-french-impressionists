@@ -4,6 +4,7 @@ layout: default
 preview: https://data.fitzmuseum.cam.ac.uk/imagestore/pdp/pdp76/preview_pd_22_1978_1_201403_mfj22_dc2.jpg
 artist_name: Hilaire-Germain-Edgar Degas
 artist: degas
+life_span: '1834-1917'
 permalink: /artists/degas/elisabeth-de-Valois
 ---
 {::options parse_block_html="true" /}
