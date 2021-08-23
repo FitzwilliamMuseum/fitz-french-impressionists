@@ -1,6 +1,6 @@
 ---
 title: The Artists of Impressionism
-permalink: /artists
+permalink: /artists/
 layout: default
 ---
 <div class="row">
