@@ -1,6 +1,7 @@
 ---
 title: Making an Impression
 layout: default
+permalink: /making
 ---
 Recording the impression, or, as Cézanne preferred, the sensation, that the artist experienced before his chosen subject inevitably called for a very individual response, in terms of perception and emotional engagement, as well as physically, in the way the motif was recorded in paint.
 

@@ -32,9 +32,8 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://french-impressionists.fitzmuseum.cam.ac.uk" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: FitzMuseum_UK
 github_username:  fitzwilliammuseum
-background: ""
+background: "https://data.fitzmuseum.cam.ac.uk/imagestore/pdp/pdp82/preview_PD_12_1968_201406_adn21_dc2.jpg"
 google_analytics: 'G-2R0YLY9DRS'
-
 # Build settings
 plugins:
   - jekyll-feed
@@ -47,7 +46,6 @@ plugins:
   - jekyll-seo-tag
   - jemoji
   - jekyll-mentions
-
 collections:
    exhibition:
       output: true
@@ -55,6 +53,8 @@ collections:
       output: true
    works:
       output: true
+   content:
+     output: true
 timezone: Europe/London
 permalink: pretty
 encoding: "utf-8"

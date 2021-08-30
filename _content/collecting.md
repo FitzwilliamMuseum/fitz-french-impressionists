@@ -1,6 +1,7 @@
 ---
 title: "Making the Impression Last: Collecting for Cambridge"
 layout: default
+permalink: /collecting
 ---
 
 The collection of Impressionist painting at Cambridge has been formed in less than a century, mainly through gift and bequest.
