@@ -4,7 +4,8 @@
     {% for entry in site.artists %}
         "{{ entry.url | slugify }}": {
             "title": "{{ entry.title | xml_escape }}",
-            "url": "{{ entry.url | xml_escape }}",
+            "url": "{{site.url}}{{ entry.url | xml_escape }}",
+            "slug": "{{ entry.permalink | xml_escape }}",
             "summary": "{{ entry.content | strip_html | strip_newlines | truncatewords: 50 | xml_escape }}",
             "content": "{{ entry.content | strip_html | strip_newlines |  xml_escape }}",
             "thumbnail": "{{ entry.preview | xml_escape }}",
@@ -14,7 +15,8 @@
     {% for entry in site.content %}
         "{{ entry.url | slugify }}": {
             "title": "{{ entry.title | xml_escape }}",
-            "url": "{{ entry.url | xml_escape }}",
+            "url": "{{site.url}}{{ entry.url | xml_escape }}",
+            "slug": "{{ entry.permalink | xml_escape }}",
             "summary": "{{ entry.content | strip_html | strip_newlines | truncatewords: 50 | xml_escape }}",
             "content": "{{ entry.content | strip_html | strip_newlines |  xml_escape }}",
             {% if entry.preview %}
