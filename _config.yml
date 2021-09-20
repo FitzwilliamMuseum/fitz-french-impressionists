@@ -21,13 +21,9 @@
 title: "French impressionists"
 email: "dejp3@cam.ac.uk"
 description: >- # this means to ignore newlines until "baseurl:"
-  "The collection of works by French Impressionist painters in the Fitzwilliam Museum
+  The collection of works by French Impressionist painters in the Fitzwilliam Museum
   – some hundred and more paintings, drawings, prints and sculptures – is one of
-  the finest in the UK. These web pages present some of the highlights of the
-  collection, as well as three magnificent works by Cézanne and Seurat's large-scale
-  study for 'A Sunday Afternoon on the Grande Jatte', on long-term loan to the Museum
-  from the Provost and Fellows of King's College, Cambridge, to whom they were
-  bequeathed by the economist, John Maynard Keynes."
+  the finest in the UK. 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://french-impressionists.fitzmuseum.cam.ac.uk" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: FitzMuseum_UK
