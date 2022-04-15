@@ -1,5 +1,7 @@
 # French Impressionists - Fitzwilliam
 
+[![DOI](https://zenodo.org/badge/398644413.svg)](https://zenodo.org/badge/latestdoi/398644413)
+
 In nineteenth century France, the government-sponsored annual exhibition known as the Salon was key in helping an artist promote his reputation and find clientele for his works.
 
 Featuring thousands of paintings (and rejecting many more) the Salon became a vast emporium, promoting the academic artists issuing from the Ecole des Beaux-Arts (School of Fine Arts) and the studios of leading establishment painters. Gradually, opposition to the Salon among independent-minded painters increased throughout the century, who sought alternative ways of exhibiting their works. In 1863, those painters whose works were rejected by the jury of the official Salon protested vociferously enough to be given their own exhibition, known as Le Salon des refusés.
